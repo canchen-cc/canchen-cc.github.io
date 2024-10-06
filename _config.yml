@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Can Chen"
-description              : "Hi! I am Can Chen, a first year Ph.D. student in Data Science at Halıcıoğlu Data Science Institute of UC San Diego. I’m fortunate to be advised by Prof. Jun-Kun Wang. "
 repository               : "Cac1231/Cac1231.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Can Chen"
-  avatar           : images/page1.jpg
+  avatar           : images/page2.jpg
   bio              : "UC San Diego"
   location         : "San Diego, CA"
   employer         :
