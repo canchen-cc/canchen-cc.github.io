@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Can Chen, a first year Ph.D. student in Data Science at Halıcıoğlu Data Science Institute of UC San Diego. I’m fortunate to be advised by Prof. Jun-Kun Wang <a href='https://jimwang123.github.io'>.
+# About Me
+
+Hi! I’m Can Chen, a first-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). I’m fortunate to be advised by Prof. [Jun-Kun Wang](https://jimwang123.github.io).
 
 My research interest lies in optimization and sampling. In particular, I am recently working on the LLM-generated Text detection by online optimization.
 
