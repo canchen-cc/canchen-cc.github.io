@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Can Chen"
+description              : "Hi! I am Can Chen, a first year Ph.D. student in Data Science at Halıcıoğlu Data Science Institute of UC San Diego. I’m fortunate to be advised by Prof. Jun-Kun Wang. "
+repository               : "Cac1231/Cac1231.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
