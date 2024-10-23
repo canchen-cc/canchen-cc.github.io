@@ -40,14 +40,14 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 
 # Education
 
-#### M.S. in Data Science  
-**Halıcıoğlu Data Science Institute, UC San Diego**  
-*2023–Present*
+- ### M.S. in Data Science  
+  **UC San Diego**  
+  *2023–Present*
 
-#### M.Eng. in Structural Engineering  
-**Southeast University**  
-*Advisor: Professor Yiming Yao*  
-*2020-2023*  
-*Recipient of the Outstanding Graduate Award*
+- ### M.S. in Structural Engineering  
+  **Southeast University**  
+  *Advisor: Prof. Yiming Yao*  
+   *2020-2023*  
+   *Recipient of the Outstanding Graduate Award*
 
 
