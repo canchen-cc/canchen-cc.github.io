@@ -23,11 +23,17 @@ Hi! I’m Can Chen, a first-year PhD student in Data Science at the [Halıcıoğ
 
 My research interest lies in online optimization and reinforcement learning. Recently, I am working on the LLM-generated text detection by online optimization. 
 
+# News
+
+Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
+**Can Chen**, Jun-Kun Wang
+**Preprint** [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
 # Publications 
 
-[Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
+Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 **Can Chen**, Jun-Kun Wang
+**Preprint** [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 
 
