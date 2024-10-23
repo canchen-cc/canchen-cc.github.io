@@ -36,7 +36,7 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 
 **Can Chen**, Jun-Kun Wang
 
-**Preprint** [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
 
 # Education
 
