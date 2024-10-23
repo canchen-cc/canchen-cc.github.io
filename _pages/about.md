@@ -33,16 +33,18 @@ My research interest lies in online optimization and reinforcement learning. Rec
 # Publications 
 
 Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
+
 **Can Chen**, Jun-Kun Wang
+
 **Preprint** [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 # Education
 
-### M.S. in Data Science  
+## M.S. in Data Science  
 **Halıcıoğlu Data Science Institute, UC San Diego**  
 *2023–Present*
 
-### M.Eng. in Structural Engineering  
+## M.Eng. in Structural Engineering  
 **Southeast University**  
 *Advisor: Professor Yiming Yao*  
 *2020-2023*  
