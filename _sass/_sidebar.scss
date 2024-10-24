@@ -189,6 +189,7 @@
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
+  font-size: 0.875em;
   @include breakpoint($large) {
     display: block;
     position: relative;
