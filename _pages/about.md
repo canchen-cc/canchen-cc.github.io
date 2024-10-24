@@ -25,10 +25,10 @@ My research interest lies in online optimization and reinforcement learning. Rec
 
 # News
 
-- *2024.10*: &nbsp;🎉🎉 Our paper, "Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
-- *2024.08*: &nbsp;🎉🎉 Received a Ph.D. offer from the Halıcıoğlu Data Science Institute at the University of California, San Diego! I will be advised by Professor Jun-Kun Wang.qingzhu. 
-- *2024.07*: &nbsp;🎉🎉 Received a Graduate Student Researcher (GSR) appointment at the Halıcıoğlu Data Science Institute to work with Professor Jun-Kun Wang on a project focused on detecting LLM-generated text.
-- - *2023.09*: &nbsp;🎉🎉 Began my M.S. in Data Science at UC San Diego.
+- *October 2024*: &nbsp;🎉🎉 Our paper, "Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
+- *August 2024*: &nbsp;🎉🎉 Received a Ph.D. offer from the Halıcıoğlu Data Science Institute at the University of California, San Diego! I will be advised by Professor Jun-Kun Wang.qingzhu. 
+- *July 2024*: &nbsp;🎉🎉 Received a Graduate Student Researcher (GSR) appointment at the Halıcıoğlu Data Science Institute to work with Professor Jun-Kun Wang on a project focused on detecting LLM-generated text.
+- - *September 2023*: &nbsp;🎉🎉 Began my M.S. in Data Science at UC San Diego.
   - 
 # Publications 
 
@@ -46,9 +46,9 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 
 
 # Educations
-- *2023.09 - Present*, M.S. in Data Science, UC San Diego 
-- *2020.09 - 2023.06*, M.S. in Structural Engineering, Southeast University. 
+- *September 2023 - Present*, M.S. in Data Science, UC San Diego 
+- *September 2020 - June 2023*, M.S. in Structural Engineering, Southeast University
 
 # Internships
-- *June 2021 - September 2021*, Data Analyst Internship, ABC Financial Asset Investment Company, China.
+- *June 2021 - September 2021*, Data Analyst Internship, ABC Financial Asset Investment Company, China
 
