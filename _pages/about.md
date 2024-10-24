@@ -44,11 +44,9 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 - *2022* Outstanding Volunteer. 
 - *2021* First-Class Scholarship. 
 
+# Service
+- Reviewer for NeurIPS 2024, ICLR 2024 
 
-# Educations
-- *September 2023 - Present*, M.S. in Data Science, UC San Diego 
-- *September 2020 - June 2023*, M.S. in Structural Engineering, Southeast University
-
-# Internships
+# Internship
 - *June 2021 - September 2021*, Data Analyst Internship, ABC Financial Asset Investment Company, China
 
