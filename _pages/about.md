@@ -42,5 +42,5 @@ My research interest lies in online optimization and reinforcement learning. Rec
 - Reviewer for NeurIPS 2024, ICLR 2024 
 
 # Internship
-- *June 2021 - September 2021*, Data Analyst Internship, ABC Financial Asset Investment Company, China
+- **June 2021 - September 2021**, Data Analyst Internship, ABC Financial Asset Investment Company, China
 
