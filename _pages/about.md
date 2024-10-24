@@ -25,18 +25,17 @@ My research interest lies in online optimization and reinforcement learning. Rec
 
 # News
 
-- *October 2024*: &nbsp;🎉🎉 Our paper, "Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
-- *August 2024*: &nbsp;🎉🎉 Received a Ph.D. offer from the Halıcıoğlu Data Science Institute at the University of California, San Diego! I will be advised by Professor Jun-Kun Wang.qingzhu. 
-- *July 2024*: &nbsp;🎉🎉 Received a Graduate Student Researcher (GSR) appointment at the Halıcıoğlu Data Science Institute to work with Professor Jun-Kun Wang on a project focused on detecting LLM-generated text.
-- *September 2023*: &nbsp;🎉🎉 Began my M.S. in Data Science at UC San Diego.
+- **October 2024**: Our paper, "Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
+- **August 2024**: Received a Ph.D. offer from the Halıcıoğlu Data Science Institute at the University of California, San Diego! I will be advised by Professor Jun-Kun Wang.qingzhu. 
+- **July 2024**: Received a Graduate Student Researcher (GSR) appointment at the Halıcıoğlu Data Science Institute to work with Professor Jun-Kun Wang on a project focused on detecting LLM-generated text.
+- **September 2023**: Began my M.S. in Data Science at UC San Diego.
   
 # Publications 
 
-Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
+- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting，**Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
 
-**Can Chen**, Jun-Kun Wang
+  **Can Chen**, Jun-Kun Wang
 
-**Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
 
 
 # Service
