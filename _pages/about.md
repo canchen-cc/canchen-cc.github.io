@@ -39,11 +39,6 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 **Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
 
 
-# Honors and Awards
-- *2023* Outstanding Graduate Award.
-- *2022* Outstanding Volunteer. 
-- *2021* First-Class Scholarship. 
-
 # Service
 - Reviewer for NeurIPS 2024, ICLR 2024 
 
