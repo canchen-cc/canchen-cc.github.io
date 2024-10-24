@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Can Chen"
-    url: "https://canchen-cc.github.io"
+  - title: "About Me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   
