@@ -38,16 +38,17 @@ Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting
 
 **Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
 
-# Education
 
-- ### M.S. in Data Science  
-  **UC San Diego**  
-  *2023–Present*
+# Honors and Awards
+- *2023* Outstanding Graduate Award.
+- *2022* Outstanding Volunteer. 
+- *2021* First-Class Scholarship. 
 
-- ### M.S. in Structural Engineering  
-  **Southeast University**  
-  *Advisor: Prof. Yiming Yao*  
-   *2020-2023*  
-   *Recipient of the Outstanding Graduate Award*
 
+# Educations
+- *2023.09 - Present*, M.S. in Data Science, UC San Diego 
+- *2020.09 - 2023.06*, M.S. in Structural Engineering, Southeast University. 
+
+# Internships
+- *June 2021 - September 2021*, Data Analyst Internship, ABC Financial Asset Investment Company, China.
 
