@@ -32,14 +32,14 @@ My research interest lies in online optimization and reinforcement learning. Rec
   
 # Publications {#publications}
 
-- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting，**Preprint** \[[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)\]
+- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting，**Preprint** 
 
   **Can Chen**, Jun-Kun Wang
 
 
 
 # Service {#service}
-- Reviewer for NeurIPS 2024, ICLR 2024 
+- Reviewer for NeurIPS 2024, ICLR 2025 
 
 # Internship {#internship}
 - **June 2021 - September 2021**, Data Analyst Internship, ABC Financial Asset Investment Company, China
