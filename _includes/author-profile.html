@@ -17,11 +17,11 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       
-      {% if author.location and author.location_link %}
-        <li><a href="{{ author.location_link }}"><i class="fa fa-map-marker" aria-hidden="true"></i> San Diego, CA</a></li>
+      {% if author.location %}
+        <li><a href="{{ author.location }}"><i class="fa fa-map-marker" aria-hidden="true"></i> San Diego, CA</a></li>
       {% endif %}
-      {% if author.employer and author.employer_link %}
-        <li><a href="{{ author.employer_link }}"><i class="fa fa-university" aria-hidden="true"></i> UC San Diego</a></li>
+      {% if author.employer %}
+        <li><a href="{{ author.employer }}"><i class="fa fa-university" aria-hidden="true"></i> UC San Diego</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
