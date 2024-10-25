@@ -23,8 +23,8 @@ author:
   name             : "Can Chen"
   avatar           : images/page.jpg
   bio              : ""
-  location         : "<a href='https://maps.google.com/?q=San+Diego,+CA'>San Diego, CA</a>"
-  employer         : "<a href='https://www.ucsd.edu'>UC San Diego</a>"
+  location         : "San Diego, CA"
+  employer         : UC San Diego
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "cac024@ucsd.edu"
