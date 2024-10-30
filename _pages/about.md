@@ -32,7 +32,7 @@ My research interest lies in online optimization and reinforcement learning. Rec
   
 # Publications {#publications}
 
-- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting，**Preprint** 
+- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting，**[Preprint](https://arxiv.org/abs/2410.22318)** 
 
   **Can Chen**, Jun-Kun Wang
 
