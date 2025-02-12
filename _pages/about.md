@@ -40,7 +40,7 @@ My research interest lies in online learning. Recently, I am working on the LLM-
 
 
 # Service {#service}
-- Reviewer for NeurIPS 2024, ICLR 2025 
+- Reviewer for NeurIPS 2024, ICLR 2025, ICML 2025 
 
 # Internship {#internship}
 - **June 2021 - September 2021**, Data Analyst Internship, ABC Financial Asset Investment Company, China
