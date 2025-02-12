@@ -21,19 +21,20 @@ redirect_from:
 
 Hi! I’m Can Chen, a first-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). I’m fortunate to be advised by Prof. [Jun-Kun Wang](https://jimwang123.github.io).
 
-My research interest lies in online optimization and reinforcement learning. Recently, I am working on the LLM-generated text detection by online optimization. 
+My research interest lies in online learning. Recently, I am working on the LLM-generated text detection by online optimization. 
 
 # News {#news}
 
+- **February 2025**: Our paper, "Optimistic Interior Point Methods for Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
 - **October 2024**: Our paper, "Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting", co-authored with Professor Jun-Kun Wang, is now available on arXiv. 
 - **August 2024**: Received a Ph.D. offer from the Halıcıoğlu Data Science Institute at the University of California, San Diego! I will be advised by Professor Jun-Kun Wang.
 - **July 2024**: Received a Graduate Student Researcher (GSR) appointment at the Halıcıoğlu Data Science Institute to work with Professor Jun-Kun Wang on a project focused on detecting LLM-generated text.
-- **September 2023**: Began my M.S. in Data Science at UC San Diego!
   
 # Publications {#publications}
 
-- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting [[Preprint]](https://arxiv.org/abs/2410.22318) 
-
+- Online Detecting LLM-Generated Text via Sequential Hypothesis Testing by Betting [[Preprint]](https://arxiv.org/abs/2410.22318)
+  **Can Chen**, Jun-Kun Wang 
+- Optimistic Interior Point Methods for Sequential Hypothesis Testing by Betting [[Preprint]](https://arxiv.org/abs/2502.07774) 
   **Can Chen**, Jun-Kun Wang
 
 
