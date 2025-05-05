@@ -33,7 +33,7 @@ My research interest lies in online learning. Recently, I am working on the LLM-
 # Publications {#publications}
 
 - **Online Detection of LLM-Generated Text via Sequential Hypothesis Testing by Betting**  
-  Can Chen, Jun-Kun Wang  
+  **Can Chen**, Jun-Kun Wang  
   **ICML** (International Conference on Machine Learning), 2025  [[Paper]](https://arxiv.org/abs/2410.22318)
 
 - **Optimistic Interior Point Methods for Sequential Hypothesis Testing by Betting**  
