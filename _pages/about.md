@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I’m Can Chen, a first-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). 
 
-My previous work focused on online learning and optimization. I'm currently exploring research topics in large language models (LLMs), particularly in areas such as alignment, controllable generation, and model safety.
+My previous research focused on online learning and optimization for machine learning applications. I am now interested in problems related to large language models (LLMs), particularly in alignment, controllable generation, and model safety.
 
 # News {#news}
 - **May 2025**: Our paper, "Online Detection of LLM-Generated Texts via Sequential Hypothesis Testing by Betting", co-authored with Prof. Jun-Kun Wang, has been accepted as a poster at ICML 2025 🎉!～ 
