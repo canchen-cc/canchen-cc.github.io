@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me {#about-me}
 
-Hi! I’m Can Chen, a first-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). 
+Hi! I am Can Chen, a second-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). 
 
 I am broadly interested in machine learning and natural language processing, particularly in problems involving alignment, controllability, and safety, which are especially relevant in the context of large language models (LLMs).
 
