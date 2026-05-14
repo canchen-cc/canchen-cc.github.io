@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me {#about-me}
 
-Hi! I am Can Chen, a second-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). I am fortunate to be advised by Prof. Michael Yip (https://yip.eng.ucsd.edu).
+Hi! I am Can Chen, a second-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). I am fortunate to be advised by [Prof. Michael Yip] (https://yip.eng.ucsd.edu).
 
 My research interests lie in trustworthy machine learning for intelligent systems, particularly alignment, controllability, and safety. I am especially interested in reliable decision-making under uncertainty, with applications to large language models and robotics.
 
